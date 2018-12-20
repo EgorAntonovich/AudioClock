@@ -1,0 +1,41 @@
+{
+  "hours": {
+    "1": ["data/1.mp3", "data/hour.mp3"],
+    "2": ["data/2.mp3", "data/hours.mp3"],
+    "3": ["data/3.mp3",  "data/hours.mp3"],
+    "4": ["data/4.mp3", "data/hours.mp3"],
+    "5": ["data/5.mp3", "data/hours_.mp3"],
+    "6": ["data/6.mp3", "data/hours_.mp3"],
+    "7": ["data/7.mp3", "data/hours_.mp3"],
+    "8": ["data/8.mp3", "data/hours_.mp3"],
+    "9": ["data/9.mp3", "data/hours_.mp3"],
+    "10": ["data/10.mp3", "data/hours_.mp3"],
+    "11": ["data/11.mp3", "data/hours_.mp3"],
+    "12": ["data/12.mp3", "data/hours_.mp3"]
+  },
+  "minutes": {
+    "1": ["data/1_.mp3", "data/minute.mp3"],
+    "2": ["data/2_.mp3","data/minutes_.mp3"],
+    "3": ["data/3.mp3","data/minutes_.mp3"],
+    "4": ["data/4.mp3","data/minutes_.mp3"],
+    "5": ["data/5.mp3","data/minutes.mp3"],
+    "6": ["data/6.mp3","data/minutes.mp3"],
+    "7": ["data/7.mp3","data/minutes.mp3"],
+    "8": ["data/8.mp3","data/minutes.mp3"],
+    "9": ["data/9.mp3","data/minutes.mp3"],
+    "10": ["data/10.mp3","data/minutes.mp3"],
+    "11": ["data/11.mp3","data/minutes.mp3"],
+    "12": ["data/12.mp3","data/minutes.mp3"],
+    "13": ["data/13.mp3","data/minutes.mp3"],
+    "14": ["data/14.mp3","data/minutes.mp3"],
+    "15": ["data/15.mp3","data/minutes.mp3"],
+    "16": ["data/16.mp3","data/minutes.mp3"],
+    "17": ["data/17.mp3","data/minutes.mp3"],
+    "18": ["data/18.mp3","data/minutes.mp3"],
+    "19": ["data/19.mp3","data/minutes.mp3"],
+    "20": ["data/20.mp3","data/minutes.mp3"],
+    "30": ["data/30.mp3","data/minutes.mp3"],
+    "40": ["data/40.mp3","data/minutes.mp3"],
+    "50": ["data/50.mp3","data/minutes.mp3"]
+  }
+}
